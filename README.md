@@ -1,6 +1,13 @@
 # VideoGameDb
-
+[VideoGameDb](https://rgala98.github.io/Video-Game-Angular) is a website with information on games.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+
+Technologies:
+- AngularJS
+- Material UI
+- Bootstrap
+
+![Image of the project](https://imgur.com/3vtYtor.jpg)
 
 ## Development server
 
