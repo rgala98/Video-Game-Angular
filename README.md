@@ -7,7 +7,11 @@ Technologies:
 - Material UI
 - Bootstrap
 
-![Image of the project](https://imgur.com/3vtYtor.jpg)
+![Image of the project](https://imgur.com/SlljLL3.jpg)
+![Image of the project](https://imgur.com/QGReaAt.jpg)
+![Image of the project](https://imgur.com/MbhZeFP.jpg)
+![Image of the project](https://imgur.com/zy2sGP6.jpg)
+
 
 ## Development server
 
